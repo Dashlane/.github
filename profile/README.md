@@ -9,7 +9,7 @@ Many of the technical details of our product can be found in our white paper her
 
 Details in the white paper include:
 
-- Our use of [Argon2](https://github.com/P-H-C/phc-winner-argon2) for key derivation
+- The use of [Argon2](https://github.com/P-H-C/phc-winner-argon2) for key derivation
 - How 2FA is used to protect account access on a new device
-- The use of public key cryptography for sharing items between Dashlane accounts
-- How we ensure zero-knowledge when enabling SSO login with Dashlane
+- The use of public-key cryptography for sharing items between Dashlane accounts
+- How we zero-knowledge is ensured when enabling SSO login with Dashlane
