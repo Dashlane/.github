@@ -1,6 +1,6 @@
 # Dashlane: Under the Hood
 
-We are the creators of the Dashlane password manager. In our public repository you will find the source code for our mobile apps as well as a CLI to Dashlane.
+We are the creators of the Dashlane password manager. In our public repositories you will find the source code for our mobile apps as well as a CLI to Dashlane.
 
 
 Many of the technical details of our product can be found in our white paper here:
@@ -12,4 +12,4 @@ Details in the white paper include:
 - The use of [Argon2](https://github.com/P-H-C/phc-winner-argon2) for key derivation
 - How 2FA is used to protect account access on a new device
 - The use of public-key cryptography for sharing items between Dashlane accounts
-- How we zero-knowledge is ensured when enabling SSO login with Dashlane
+- How zero-knowledge is ensured when enabling SSO login with Dashlane
