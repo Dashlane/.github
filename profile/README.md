@@ -16,7 +16,7 @@ Details in the white paper include:
 
 ## Our Apps
 
-|  Apps |  Download link |
+|  App |  Download link |
 |---|---|
 | Dashlane Password Manager   |  [Download on the Chrome Web Store](https://chrome.google.com/webstore/detail/dashlane-%E2%80%94-password-manag/fdjamakpfbbddfjaooikfcpapjohcfmg)</br>[Download on the App Store](https://apps.apple.com/app/dashlane/id517914548)</br>[Download on the Google Play Store](https://play.google.com/store/apps/details?id=com.dashlane)
 | Dashlane Authenticator   |  [Download on the App Store](https://apps.apple.com/app/dashlane-authenticator/id1582978196)</br>[Download on the Google Play Store](https://play.google.com/store/apps/details?id=com.dashlane.authenticator) |
