@@ -14,7 +14,7 @@ Details in the white paper include:
 - The use of public-key cryptography for sharing items between Dashlane accounts
 - How zero-knowledge is ensured when enabling SSO login with Dashlane
 
-You can find our apps in the Chrome Web Store, App Store, and Google Play Store:
+## Our Apps
 
 |  Apps |  Download link |
 |---|---|
