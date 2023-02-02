@@ -24,3 +24,6 @@ Details in the white paper include:
 | Dashlane Authenticator   |  &#8226; [App Store](https://apps.apple.com/app/dashlane-authenticator/id1582978196)</br>&#8226; [Google Play Store](https://play.google.com/store/apps/details?id=com.dashlane.authenticator) |
 
 Note: The Dashlane Authenticator mobile apps integrate with our Dashlane Password Manager apps, allow easy access to TOTP codes while at the same time linking them to credentials in Dashlane.
+
+## Want to know more about Dashlane Engineering?
+We regularly post articles about what we do on the [Dashlane Blog](https://blog.dashlane.com/category/engineering/).
