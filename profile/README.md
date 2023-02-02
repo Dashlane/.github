@@ -1,3 +1,5 @@
+> **Today we are announcing that our mobile app source code is publicly available! [Read about it here!](https://blog.dashlane.com/mobile-code-now-publicly-available/)** 🎉
+
 # Dashlane: Under the Hood 🛠️
 
 We are the creators of the Dashlane Password Manager. In our public repositories you will find the source code for our mobile apps. We have also developed a [CLI version of Dashlane](https://github.com/Dashlane/dashlane-cli), while not officially supported it is created by us at Dashlane.
