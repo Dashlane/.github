@@ -1,4 +1,4 @@
-> **Today we are announcing that our mobile app source code is publicly available! [Read about it here!](https://blog.dashlane.com/mobile-code-now-publicly-available/)** 🎉
+> **In February 2023 we announced that our mobile app source code is publicly available! [Read about it here!](https://blog.dashlane.com/mobile-code-now-publicly-available/)** 🎉
 
 # Dashlane: Under the Hood 🛠️
 
