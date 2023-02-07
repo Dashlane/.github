@@ -25,5 +25,5 @@ Details in the white paper include:
 
 Note: The Dashlane Authenticator mobile apps integrate with our Dashlane Password Manager apps, allow easy access to TOTP codes while at the same time linking them to credentials in Dashlane.
 
-## Want to know more about Dashlane Engineering?
+## Learn more about software engineering at Dashlane
 We regularly post articles about what we do on the [Dashlane Blog](https://blog.dashlane.com/category/engineering/).
