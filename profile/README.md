@@ -2,7 +2,7 @@
 
 # Dashlane: Under the Hood 🛠️
 
-We are the creators of the Dashlane Password Manager. In our public repositories you will find the source code for our mobile apps. We have also developed a [CLI version of Dashlane](https://github.com/Dashlane/dashlane-cli), while not officially supported it is created by us at Dashlane.
+We are the creators of the Dashlane Password Manager. In our public repositories you will find the source code for our mobile apps. We have also developed a [CLI version of Dashlane](https://github.com/Dashlane/dashlane-cli).
 
 
 Many of the technical details of our product can be found in our white paper here:
