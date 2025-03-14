@@ -15,3 +15,6 @@ Many of the technical details of our product can be found in our white paper her
 
 ## Learn more about software engineering at Dashlane
 We regularly post articles about what we do on the [Dashlane Blog](https://blog.dashlane.com/category/engineering/).
+
+## Dashlane Slack Community
+We are starting an invite-only Slack community for Dashlane Engineering to discuss topics such as our Public API, our CLI and other Security topics, with our customers and partners. If you are interested in joining, please reach out to <dev-relationship@dashlane.com>
